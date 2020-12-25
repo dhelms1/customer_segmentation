@@ -17,3 +17,6 @@ This projects with real-life data provided to us by our Bertelsmann partners AZ 
 #### Requirements to run this project:
 - Seaborn, Matplotlib, NumPy, Pandas, Sklearn
 - Note: unless data can be downloaded, the project can't be run on a personal machine.
+
+#### Data Dictionary:
+A markdown file that contains a description of each feature in the dataset. This can be used to better understand the final results of the PCA section.
